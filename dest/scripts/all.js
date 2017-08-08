@@ -1,0 +1,1 @@
+function show(){console.log("okok11777771")}function showPro(){console.log("yeguo")}
